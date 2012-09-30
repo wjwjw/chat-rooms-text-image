@@ -1,0 +1,16 @@
+F:\测试源代码文件\TCP-TEST\Client\bin\Debug\Client.exe
+F:\测试源代码文件\TCP-TEST\Client\bin\Debug\Client.pdb
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\ResolveAssemblyReference.cache
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\Client.ClientForm.resources
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\Client.Properties.Resources.resources
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\Client.exe
+F:\测试源代码文件\TCP-TEST\Client\obj\Debug\Client.pdb
+F:\作业\TCP-TEST局域网聊天\Client\bin\Debug\Client.exe
+F:\作业\TCP-TEST局域网聊天\Client\bin\Debug\Client.pdb
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\ResolveAssemblyReference.cache
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\Client.ClientForm.resources
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\Client.Properties.Resources.resources
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\Client.exe
+F:\作业\TCP-TEST局域网聊天\Client\obj\Debug\Client.pdb
